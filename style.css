@@ -42,11 +42,13 @@ main {
     display: flex;
     flex-direction: row;
     margin-top: 20px;
+   
 }
 
 .encriptar {
     background-color: darkblue;
     color:white;
+    border-radius:25%;
 }
 
 .desencriptar {
